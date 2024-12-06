@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: #8095ff;
+}
+section#l {
+    background-color: #a9ffb0;
+}
+h1 {
+    color: #ff1212;
+    font-family: "Pastor of Muppets";
+    float: left;
+    margin: 20px 0px 0px 10px;
+}
+
+span {
+    font-family: "Pastor of Muppets Flipped";
+}
+
+p {
+    color: #050505;
+    clear: both; /* Ensure it stays under floated elements */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    background-color: #f1ff75;
+    display: block;
+    padding-top: 150px;
+    height: 300px;
+}
+
+strong {
+    color: #f95151;
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+    margin: 20px 0 0 0;
+}
+
+li {
+    float: left;
+    margin-right: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #38a741;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    background-color: #001165;
+    /* border-width: 50px; */
+    border-radius: 45px;
+    padding: 10px 20px;
+}
+
+a:hover {
+    color: #7e49ad;
+    background-color: #0023d2;
+}
+
+input {
+    margin-top: 20px;
+    position: relative;
+}

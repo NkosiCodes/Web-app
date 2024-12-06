@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #190027;
+}
+div.cl1, div.cl2, div.cl3, div.cl4 {
+    height: 1000px;
+}
+.cl1 {
+    background-color: #180026;
+    display: inline;
+}
+.cl2 {
+    background-color: #5e60ce;
+    display: inline;
+}
+.cl3 {
+    background-color: #740088;
+    display: inline;
+}
+.cl4 {
+    background-color: #80ffdb;
+    display: inline;
+}

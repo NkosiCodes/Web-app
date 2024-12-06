@@ -1,0 +1,24 @@
+body {
+    margin: auto;
+    background-color: #8eff6b;
+}
+.container {
+    background-color: #ff4545;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    border-radius: 10%;
+}
+.form {
+    width: 170px;
+    margin: auto;
+}
+input[type=text] {
+    height: 60px;
+    border-radius: 20%;
+    border-style: solid;
+    border-color: #6b8eff;
+}
+h1 {
+    text-align: center;
+}
